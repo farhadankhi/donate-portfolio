@@ -25,6 +25,7 @@
     text-align: center;
     padding: 20px 190px;
     font-family: sans-serif;
+    
 }
 .title2{
     margin-top: 80px;
@@ -55,5 +56,12 @@ li.pink{
     color: #ff003c;
     background-color: lightpink;
 }
+.h3{
+    color: lightgray;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px ;
+}
+
 
    
