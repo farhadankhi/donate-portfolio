@@ -1,0 +1,22 @@
+/* header-style */
+.text-section{
+    text-align: center;
+    padding: 60px 200px;
+    background-image: url('../images/donation1.jpg');
+    background-repeat: no-repeat;
+    background-size: 900px ;
+    height: 300px;
+    color: aliceblue;
+}
+.text{
+    font-weight: 700px;
+    font-size: 700px;
+}
+.primary-btn{
+    color:white;
+    background-color: rgb(255, 0, 60);
+    border: none;
+    border-radius: 4px;
+    padding: 10px 10px;
+    font-family: sans-serif;
+}
