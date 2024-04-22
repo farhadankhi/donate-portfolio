@@ -97,5 +97,20 @@ div p,.text1,.text2,.text3{
     color: grey;
 }
 
+/* their live section */
 
+.img-people{
+    width: 300px;
+    float:right;
+    padding: 20px 50px 10px 30px;
+}
+
+.title4{
+    padding: 20px 500px 0px 90px;
+    display: block;
+}
+.description-text{
+    color: grey;
+    padding:0px 500px 10px 90px ;
+}
    
