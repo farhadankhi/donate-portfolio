@@ -117,4 +117,25 @@ div p,.text1,.text2,.text3{
 .different{
     margin-left: 90px;
 }
+/* they need section */ 
+.second-img{
+    width: 300px;
+    height: auto;
+    float: left;
+    padding: 140px 50px 30px 100px ;
+    
+} 
+.all-text{
+    text-align: left;
+    padding: 100px 130px 40px 320px;
+    font-family:sans-serif;
+}
+.title5{
+    padding-right: 20px;
+    font-size:28px;
+}
+.description4{
+    font-size:smaller;
+    font-family:sans-serif;
+}
    
