@@ -143,6 +143,11 @@ div p,.text1,.text2,.text3{
     text-align: center;
     padding: 30px 20px;
 }
+.title6{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
 .description-last{
     font-size: smaller;
     padding: 0px 200px 0px 200px;
@@ -156,15 +161,22 @@ div p,.text1,.text2,.text3{
     border: none;
     border-radius:3px 0px 0px 3px ;
     
-    
 }
 .gap{
     display: flex;
     gap: 0px;
-    padding-left: 260px;
+    
+    
 }
 div.gap,.primary-btn{
     border-radius: 0px 3px 3px 0px;
+    p
+}
+div.gap{
+    background-color:papayawhip;
+    padding: 50px 20px 50px 110px;
+    margin:30px 150px 30px 150px;
+    border-radius: 0px;
 }
 
     
