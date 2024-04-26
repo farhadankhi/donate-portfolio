@@ -170,7 +170,7 @@ div p,.text1,.text2,.text3{
 }
 div.gap,.primary-btn{
     border-radius: 0px 3px 3px 0px;
-    p
+    
 }
 div.gap{
     background-color:papayawhip;
@@ -178,6 +178,28 @@ div.gap{
     margin:30px 150px 30px 150px;
     border-radius: 0px;
 }
+/* last section */
+.last-thing{
+    background-color:black;
+    margin-top: 15px;
+    padding-top: 3px;
+    padding-bottom: 9px;
+    text-align: center;
+}
+.title7{
+    color:#ff003c ;
+    font-size: 20px;
+    padding-top: 5px;
+    font-family:sans-serif ;
+    font-style: italic;
+}
+.small-one{
+    color: lavender;
+    font-size: 10px;
+    font-family:sans-serif;
+    padding-bottom: 8px;
+}
+
 
     
 
