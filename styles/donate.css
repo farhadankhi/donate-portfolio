@@ -138,4 +138,35 @@ div p,.text1,.text2,.text3{
     font-size:smaller;
     font-family:sans-serif;
 }
+/* get my updates section */
+.updates{
+    text-align: center;
+    padding: 30px 20px;
+}
+.description-last{
+    font-size: smaller;
+    padding: 0px 200px 0px 200px;
+    color: grey;
+}
+
+.email-btn{
+    padding: 10px 15px 9px 10px;
+    color: grey;
+    background-color: lightgrey;
+    border: none;
+    border-radius:3px 0px 0px 3px ;
+    
+    
+}
+.gap{
+    display: flex;
+    gap: 0px;
+    padding-left: 260px;
+}
+div.gap,.primary-btn{
+    border-radius: 0px 3px 3px 0px;
+}
+
+    
+
    
