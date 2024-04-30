@@ -8,9 +8,16 @@
     height: 300px;
     color: aliceblue;
 }
+.title{
+    background-color:blueviolet;
+}
+.description{
+    background-color: papayawhip;
+}
 .text{
     font-weight: 700px;
     font-size: 700px;
+    
 }
 .primary-btn{
     color:white;
